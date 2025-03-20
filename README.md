@@ -136,16 +136,6 @@ curl -X DELETE http://127.0.0.1:8000/api/pets/1 -H "Accept: application/json" -H
 
 ---
 
-## Dokumentacja API z Swagger
-
-Projekt jest zintegrowany z **Swagger**, który automatycznie dokumentuje endpointy API. W celu uzyskania pełnej dokumentacji API, odwiedź:
-
-[http://127.0.0.1:8000/api/documentation](http://127.0.0.1:8000/api/documentation)
-
-Dokumentacja zawiera szczegółowe informacje o wszystkich dostępnych endpointach API oraz przykładach zapytań i odpowiedzi.
-
----
-
 ## Testowanie API za pomocą Swagger UI
 
 1. **Swagger UI** jest dostępne po uruchomieniu aplikacji.
